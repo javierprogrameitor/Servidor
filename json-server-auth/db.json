@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "luismiguel.cabezas@juntaex.es",
+      "password": "$2a$10$UJ78lhr2hv6v/ZJcN0znreJ1DuxCoNzd7DDGmCp9zqMUe1/qxol3K",
+      "name": "Luis Miguel Cabezas",
+      "id": 1
+    }
+  ],
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Comprar en Mercadona papel higiénico de dos capas",
+      "responsable": "Antonio Zorita",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "titulo": "Encontrar el Santo Grial en la nevera",
+      "responsable": "Indiana Conchita",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "titulo": "Montar una banda de rock usando solo cucharas y cacerolas",
+      "responsable": "Ringo Martín",
+      "activo": true
+    },
+    {
+      "id": 6,
+      "titulo": "Crear una coreografía de reggaetón para la junta de vecinos",
+      "responsable": "DJ Vecindario",
+      "activo": true
+    },
+    {
+      "titulo": "Montar una banda de rock usando solo cucharas y cacerolas",
+      "responsable": "Ringo Martín",
+      "activo": true,
+      "id": 7
+    },
+    {
+      "titulo": "Lata de sartdinas",
+      "responsable": "Javier",
+      "activo": true,
+      "id": 8
+    }
+  ]
+}
